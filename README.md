@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinda-gamage&label=Profile%20views&color=0e75b6&style=flat" alt="aravinda-gamage" /> </p>
 
-- 🌱 I’m currently learning **Java,Mysql**
+- 🌱 I’m currently learning **Java,Mysql,JS**
 
-- 💬 Ask me about **Java,Mysql,HTML,Python**
+- 💬 Ask me about **Java,Mysql,HTML,Python,JS**
 
 - 📫 How to reach me **aravindagamage1998@gmail.com**
 
